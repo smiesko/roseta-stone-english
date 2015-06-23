@@ -1,0 +1,49 @@
+a cat - macka
+a girl - dievca
+a boy - chlapec
+a dog - pes
+
+a car - auto
+an aeroplane - lietadlo
+a woman - zena
+a man - muz
+
+an aeroplane - lietadlo
+a ball - lopta
+a horse - kon
+an elephant - slon
+
+a man and a boy - muz a chlapec
+a man and a woman - muz a zena
+a cat and a car - macka a auto
+a girl and a woman - dievca a zena
+
+a boy and an aeroplane - chlapec a lietadlo
+a girl and a horse - dievca a kon
+a girl and a dog - dievca a pes
+a boy and a dog - chlapec a pes
+
+a girl on a horse - dievca na koni
+a ball on a boy - lopta na chlapcovi
+a man on a horse - muz na koni
+a boy on a horse - chlapec na koni
+
+a boy under an aeroplane - chalpec pod lietadlom
+a boy under a table - chalpec pod stolom
+a boy under a ball - chlapec pod loptou
+a boy and a dog - chlapec a pes
+
+a boy under a table - chalpec pod stolom
+a boy on an aeroplane - chlapec na lietadle
+a boy under an aeroplane - chalpec pod lietadlom
+a boy on a table - chlapec na stole
+
+a girl in a car - dievca v aute
+a woman in a car - zena v aute
+a boy in a car - chlapec v aute
+a boy and a girl in a boat - chlapec a dievca na lodi
+
+a boy in an aeroplane - chlapec v lietadle
+a boy and a dog - chalpec a pes
+a boy on an aeroplane - chlapec na lietadle
+a boy under an aeroplane - chlapec pod lietadlom

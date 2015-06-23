@@ -1,0 +1,49 @@
+The horse is jumping. - Kon skace.
+The girl is jumping. - Dievca skace.
+The boy is jumping. - Chlapec skace.
+The dog is jumping. - Pes skace.
+
+The horse is running. - Kon bezi.
+The woman is running. - Zena bezi.
+The boy is running. - Chlapec bezi.
+The girl is running. - Dievca bezi.
+
+The girls are jumping. - Dievcata skacu.
+The woman is running. - Zena bezi.
+The woman is jumping. - Zena skace.
+The girls are running. - Dievcata bezia.
+
+The boy is walking. - Chlapec kraca.
+The girls are running. - Dievcata bezia.
+The boy is jumping. - Chlapec skace.
+The girls are walking. - Dievcata kracaju.
+
+The man and a woman are walking. - Muz a zena kracaju.
+The woman is walking. - Zena kraca.
+The man and a woman are dancing. - Muz a zena tancuju.
+The woman is dancing. - Zena tancuje.
+
+The woman is reading. - Zena cita.
+The man is dancing. - Muz tancuje.
+The woman is jumping. - Zena skace.
+The man is reading. - Muz cita.
+
+The man is running after the boy. - Muz uteka za chlapcom.
+The man is falling. - Muz pada.
+The boy is falling. - Chlapec pada.
+The girls are running after the boy. - Dievcata bezi za chlapcom.
+
+The man is jumping. - Muz skace.
+The man is running. - Muz bezi.
+The man is falling. - Muz pada.
+The aeroplane is flying. - Lietadlo leti.
+
+The man is falling. - Muz pada.
+The boy is falling. - Chlapec pada.
+The boy is swimming. - Chlapec plava.
+The woman is swimming. - Zena plava.
+
+The bull is running. - Byk bezi.
+The fish is swimming. - Ryba plava.
+The bird is flying. - Vtak leti.
+The bird is swimming. - Vtak plava.

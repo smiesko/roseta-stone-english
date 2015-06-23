@@ -1,0 +1,49 @@
+six - sest
+five - pat
+two - dva
+three - tri
+
+two - dva
+four - styri
+five and six - pat a sest
+three - tri
+
+three and four - tri a styri
+five and six - pat a sest
+four and five - styri a pat
+five and five - pat a pat
+
+four, five, six - styri, pat, sest
+three, three, three - tri, tri, tri
+four and four - styri a styri
+five and five - pat a pat
+
+six, seven, eight - sest, sedem, osem
+one, two, three - jeden, dva, tri
+five, six, seven - pat, sest, sedem
+four, five, six - styri, pat, sest
+
+one, two, three - jeden, dva, tri
+one, two, three, four - jeden, dva, tri, styri
+one, two, three, four, five - jeden, dva, tri, styri, pat
+one, two, three, four, five, six - jeden, dva, tri, styri, pat, sest
+
+one, two, three - jeden, dva, tri
+one, two, three, four, five - jeden, dva, tri, styri, pat
+one, two, three, four, five, six, seven - jeden, dva, tri, styri, pat, sest, sedem
+one, two, three, four, five, six, seven, eight - jeden, dva, tri, styri, pat, sest, sedem, osem
+
+three - tri
+two - dva
+one, two, three, four, five, six, seven, eight, nine, zero - jeden, dva, tri, styri, pat, sest, sedem, osem, devat, nula
+five - pat
+
+three - tri
+nine - devat
+five - pat
+ten - desat
+
+seven - sedem
+six - sest
+ten - desat
+one - jeden

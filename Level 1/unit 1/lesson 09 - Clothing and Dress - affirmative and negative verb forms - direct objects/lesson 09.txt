@@ -1,0 +1,49 @@
+some white hats - nejake biele klobuky
+a black hat - cierny klobuk
+a white hat - biely klobuk
+some black hats - nejake cierne klobuky
+
+a white hat - biely klobuk
+a black hat and a brown hat - cierny klobuk a hnedy klobuk
+some gray hats - nejake sede klobuky
+a purple hat - fielovy klobuk
+
+The woman is wearing a black hat. - Zena nosi cierny klobuk.
+The girl is wearing a white blouse. - Dievca nosi bielu bluzku.
+The woman is wearing a blue T-shirt. - Zena nosi modre tricko.
+The woman is wearing a white blouse. - Zena nosi bielu bluzku.
+
+The boy is wearing white trousers. - Chlapec nosi biele nohavice.
+The men are wearing blue jeans. - Muzi nosia modre rifle.
+The men are waring dark shirts and dark trausers. - Muzi nosia tmave tricka a tmave nohavice.
+The woman is wearing a white T-shirt and blue jeans. - Zena nosi biele tricko a modre rifle.
+
+The woman is not wearing a coat. - Zena nenosi kabat.
+One woman is wearing a red raincoat and one woman is wearing a purple raincoat. - Jedna zena nosi cerveny prsiplast a jedna zena nosi fialovy prsiplast.
+One woman is wearing a yellow raincoat and one woman is wearing a blue raincoat. - Jedna zena nosi zlty prsiplast a jedna zena nosi modry prsiplast.
+The woman is wearing a black coat. - Zena nosi cierny kabat.
+
+The woman is wearing a white blouse and a black skirt. - Zena nosi bielu bluzku a ciernu suknu. 
+One boy is wearing a blue shirt and one boy is wearing a red shirt. - Jeden chlapec nosi modru koselu a jeden chlapec nosi cervenu koselu.
+Both women are wearing blue T-shirts. - Obe zeny nosia modre tricka.
+The woman is wearing a white T-shirt and blue jeans. - Zena nosi biele tricko a modre rifle.
+
+The woman is wearing glasses. - Zena nosi okuliare.
+The woman is not wearing glasses. - Zena nenosi okuliare.
+The man and the woman are not wearing swimming costumes. - Muz a zena nenosia plavky.
+The man and the woman are wearing swimming costumes. - Muz a zena nosia plavky.
+
+The girl is wearing two shoes. - Dievca ma dve topanky.
+The girl is wearing one shoe. - Dievca nosi jednu topanku.
+The boy is wearing one hat. - Chlapec nosi jeden klobuk.
+The boy is wearing two hats. - Chlapec nosi dva klobuky.
+
+One gril is wearing a white dress and one girl is wearing a red and white dress. - Jedno dievca nosi biele saty a jedno dievca nosi cerveno-biele saty.
+The girls are wearing dresses and hats. - Dievcata nosia saty a klobuky.
+The girls are wearing black trousers. - Dievcata nosia cierne nohavice.
+The girls are wearing white blouses and black skirts. - Dievcata nosia biele bluzky a cierne sukne.
+
+The girl is not wearing socks. - Dievca nenosi ponozky.
+The boy is not wearing shoes. - Chlapec nenosi topanky.
+The girl is wearing white socks. - Dievca nosi biele ponozky.
+The boy is wearing shoes. - Chlapec nosi topanky.

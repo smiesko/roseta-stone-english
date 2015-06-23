@@ -1,0 +1,50 @@
+Two boys are jumping. - Dvaja chlapci skacu.
+Two men are riding horses. - Dvaja muzi jazdia na konoch.
+One man is riding a motorcycle. - Jeden muz jazdi na motorke.
+One girl is riding a horse. - Jedno dievca jazdi na koni.
+
+Two girls are jumping. - Dve dievcata skacu.
+four children - styri deti.
+four balls - styri lopty
+One girl is jumping. - Jedno dievca skace.
+
+The number is two. - Cislo je dva.
+The number is three. - Cislo je tri.
+The number is four. - Cislo je styri.
+The number is one. - Cislo je jedna.
+
+The number is five. - Cislo je pat.
+The number is two. - Cislo je dva.
+The number is four. - Cislo je styri.
+The number is six. - Cislo je styri.
+
+The time is four o'clock. - Su styri hodiny.
+The time is two o'clock. - Su dve hodiny.
+The time is six o'clock. - Je sest hodin.
+The time is three o'clock. - Su tri hodiny.
+
+five windows - pat okien
+four windows - styri okna
+one window - jedno okno
+three windows - tri okna
+
+one blue plate - jeden modru tanier
+There are two plates. One plate is yellow and one plate is blue. - Su tam dva taniere. Jeden tanier je zlty a jeden tanier je modry.
+one yellow plate - jeden zlty tanier
+There are three plates. One plate is orange, one plate is blue and one plate is yellow. - Su tam tri taniere. Jeden tanier je oranzovy, jeden je modry a jeden je zlty.
+
+three plates - tri taniere
+two plates - dva taniere
+one plate - jeden tanier
+ten plates - desat tanierov
+
+fifteen fingers - patnast prstov
+twenty fingers - dvadsat prstov
+ten fingers - desat prstov
+thirty fingers - tridsat prstov
+
+The time is seven o'clock. - Je sedem hodin.
+The time is six o'clock. - Je sest hodin.
+The time is four o'clock. - Su styri hodiny.
+The time is five o'clock. - Je pat hodin.
+

@@ -1,0 +1,135 @@
+Is the bird red? - Je ten vtak cerveny?
+Yes, it is red.    Ano, je.
+
+Is the car white? - Je to auto biele?
+Yes, it is white.   Ano, je biele.
+
+Is the fish white? - Je ta ryba biela?
+Yes, it is white.    Ano, je biela.
+
+Is the car red? - Je to auto cervene?
+Yes, it is red.   Ano, je cervene.
+
+
+Is the aeroplane white? - Je to lietadlo biele? 
+Yes, it is white. 		  Ano, je biele.
+
+Is the car yellow? - Je to auto zlte?
+No, it is white.     Nie, je biele.
+
+Is the aeroplane white? - Je to lietadlo biele?
+No, it is yellow.         Nie, je zlte.
+
+Is the car yellow? - Je to auto zlte?
+Yes, it is yellow. 	 Ano, je zlte.
+
+
+Is the car red?			- Je to auto cervene? 
+No, the car is not red.   Nie, auto nie je cervene. 
+The car is yellow.		  Auto je zlte.
+
+Is the car white? - Je to auto biele?
+Yes, it is.         Ano, je.
+
+Is the car red? - Je to auto cervene?
+Yes, it's red.    Ano, je.
+
+Is the car white?         - Je to auto biele?
+No, the car is not white.   Nie, to auto nie je biele.
+The car is blue.		    To auto je modre.
+
+
+Is the cat white?   - Je ta macka biela?
+No, it isn't white.   Nie, nie je biela. 
+It's black.			  Je cierna.
+
+Is the car blue?   - Je to auto modre?
+No, it isn't blue.   Nie, nie je modre.
+It is yellow.        Je zlte.
+
+Is the car blue?. - Je to auto modre?
+Yes, it is blue.    Ano, je modre.
+
+Is the car black?		  - Je to auto cierne?
+No, the car is not black.   Nie, auto nie je cierne.
+The car is pink.            Auto je ruzove.
+
+
+Is the green car old?      - Je to zelene auto stare?
+Yes, the green car is old.   Ano, zelene auto je stare.
+
+Is the pink car new? - Je to ruzove auto nove?
+No, it is not new.     Nie, nie je nove.
+
+Is the black car old? - Je to cierne auto stare?
+No, it isn't old.       Nie, nie je stare.
+It is new.              Je nove.
+
+Is the red car old? - Je to cervene auto stare?
+No, it is not.        Nie, nie je.
+
+
+Is there a man on this house? - Je muz na tomto dome?
+Yes, there is.                  Ano, je.
+
+Is there a man on this house? - Je muz na tomto dome?
+No, there is not.               Nie, nie je.
+
+Is the car old? - Je to stare auto?
+Yes, it is old.   Ano, je stare.
+
+Is the car old?        - Je to auto stare?
+No, the car isn't old.   Nie, to auto nie je stare.
+
+
+Is the woman running? - Bezi ta zena?
+Yes, she is running.    Ano, on bezi.
+
+Are the women running? - Bezia tie zeny?
+Yes, they are.           Ano, oni bezia. 
+
+Is the woman running? - Bezi ta zena?
+No, she is not.         Nie, ona nebezi.
+
+Are the women running? - Bezia tie zeny?
+No, the are not.  		 Nie, ony nebezia.
+
+
+Is the boy jumping? - Skace ten chlapec?
+Yes, he is.			  Ano, skace.
+
+Are the boys jumping? - Skacu ti chlapci?
+Yes, they are. 			Ano, oni skacu.
+
+Is the boy jumping? - Skace ten chlapec?
+No, he isn't.		  Nie, on neskace.
+
+Are the boys jumping? - Skacu ti chlapci?
+No, they are not.		Nie, oni neskacu.
+
+
+Is the woman sitting? - Sedi ta zena?
+Yes, she is.			Ano, ona sedi.
+
+Are the women sitting? - Sedia tie zeny?
+No, they are not.		 Nie, oni nesedia.
+
+Are the women sitting? - Sedia tie zeny?
+Yes, they are.			 Ano, oni sedia.
+
+Is the woman sitting? - Sedi ta zena?
+No, she is not.         Nie, ona nesedi.
+
+
+Is she eating? - Je ona?
+No, she isn't.   Nie, ona neje.
+
+Is she eating? - Je ona?
+Yes, she is.	 Ano, ona je.
+
+Is he eating? - Je on?
+No, he isn't.   Nie, on neje.
+
+Is he eating? - Je on?
+Yes, he is.	    Ano, on je.
+

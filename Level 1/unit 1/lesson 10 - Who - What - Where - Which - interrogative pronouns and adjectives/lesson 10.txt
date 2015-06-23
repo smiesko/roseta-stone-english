@@ -1,0 +1,122 @@
+Who is swimming?	 - Kto plava?
+The boy is swimming.   Chlapec plava.
+
+Who is running?       - Kto bezi?
+The horse is running.   Kon bezi.
+
+Who is reading?       - Kto cita.
+The woman is reading.   Zena cita.
+
+Who is dancing?     - Kto tancuje?
+The man is dancing.   Muz tancuje.
+
+
+Who is under the table?     - Kto je pod stolom?
+The boy is under the table.   Chlapec je pod stolom.
+
+Who is eating?     - Kto je?
+The man is eating.   Muz je.
+
+Who is drinking milk?      - Kto pije mlieko.
+The girl is drinking milk.   Dievca pije mlieko.
+
+Who is sitting?       - Kto sedi?
+The child is sitting.	Dieta sedi.
+
+
+What is flying?   - Co leti?
+A bird is flying.   Vtak leti.
+
+Who is eating bread?     - Kto je chlieb?
+The boy is eating bread.   Chlapec je chlieb.
+
+Who is eating a carrot?       - Kto je mrkvu?
+The horse is eating a carrot.   Kon je mrkvu.
+
+What is flying?          - Co leti?
+The aeroplane is flying.   Lietadlo leti.
+
+
+What food is this? - Co je to za jedlo?
+This is bread.       Toto je chlieb.
+
+What are the women wearing?     - Co nosia zeny?
+They are wearing white blouses.   Oni nosia biele bluzky.
+
+What are the women wearing?    - Co nosia zeny?
+They are wearing blue T-shirts. 	 Oni nosia modre tricka.
+
+What food is this?      - Co je to za jedlo?
+These are strawberries.   Toto su jahody.
+
+
+Where is the man?            - Kde je muz?
+The man is on the old house.   On je na starom dome.
+
+Where is the boy?           - Kde je chlapec?
+The boy is under the table.   Chlapec je pod stolom.
+
+Where is the boy?        - Kde je chlapec?
+The boy is on the table.   Chlapec je na stole.
+
+Where is the man?          - Kde je muz?
+The man is on the bicycle.   Muz je na bicykli.
+
+
+Where is the white car? - Kde je biele auto?
+Here is the white car.    Tu je biele auto.
+
+What colour is this car? - Akej farby je toto auto?
+This car is red.           Toto auto je cervene.
+
+What colour is this car? - Akej farby je toto auto?
+This car is yellow.        Toto auto je zlte.
+
+Where is the blue car? - Kde je modre auto?
+Here is the blue car.	 Tu je modre auto.
+
+
+Where are the bananas? - Kde su banany?
+
+Where is the cheese? - Kde je syr?
+
+Which horse is running? - Ktory kon bezi?
+This horse is running.	  Tento kon bezi.
+
+Which horse is jumping? - Ktory kon skace?
+This horse is jumping.	  Tento kon skace.
+
+
+Which child is drinking milk? - Ktore dieta pije mlieko?
+The girl is drinking milk.	    Dievca pije mlieko.
+
+Which car is red? - Ktore auto je cervene?
+
+Which woman is wearing a blue T-shirt? - Ktora zena nosi modru koselu?
+Both women are wearing blue T-shirts.    Obe zeny nosia modre kosele.
+
+Which car is blue? - Ktore auto je modre?
+
+
+Where is the boy?		- Kde je chlapec?
+The boy is on a horse.	  Chlapec je na koni.
+
+What is the boy doing? - Co robi chlapec?
+He is swimming.			 On plava.
+
+Who has long hair?     - Kto ma dlhe vlasy?
+The man has long hair.   Muz ma dlhe vlasy.
+
+Which child is eating bread? - Ktore dieta je chlieb?
+The boy is eating bread.       Chlapec je chlieb.
+
+
+Where are the children? - Kde su deti?
+They are in a boat.        Oni su na lodi.
+
+Which man has blue hair? - Ktory muz ma modre vlasy?
+
+Who has red hair? - Kto ma cervene vlasy?
+
+What are the woman and the girl doing? - Co robia zena a dievca?
+They are drinking milk.					 Oni piju mlieko.

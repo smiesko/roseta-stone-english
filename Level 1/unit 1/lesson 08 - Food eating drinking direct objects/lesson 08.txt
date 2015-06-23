@@ -1,0 +1,49 @@
+milk - mlieko
+meat - maso
+bread - chlieb
+fruit - ovocie
+
+The woman is eating. - Zena je.
+The woman is drinking. - Zena pije.
+The man is drinking. - Muz pije.
+The man is eating. - Muz je.
+
+The man is drinking water. - Muz pije vodu.
+The girl is drinking milk. - Dievca pije mlieko.
+The woman is drinking milk. - Zena pije mlieko.
+The woman and girl are drinking milk. - Zena a dievca piju mlieko.
+
+The boy is eating bread. - Chlapec je chlieb.
+The horse is eating a carrot. - Kon zerie mrkvu.
+The man is eating. - Muz je.
+The man is drinking. - Muz pije.
+
+The boy is eating bread and the girl is drinking milk. - Chlapec je chlieb a dievca pije mlieko.
+The man is drinking milk. - Muz pije mlieko.
+The man is drinking water. - Muz pije vodu.
+The man is drinking orange juice. - Muz pije pomarancovy dzus.
+
+red tomatoes - cervene paradajky
+yellow babanas - zlte banany
+green apples and red apples - zelene jablka a cervena jablka
+yellow cheese - zlty syr
+
+yellow apples - zlte jablka
+red strawberries - cervene jahody
+red grapes - cervene hrozno
+green pears - zelene hrusky
+
+Balls are not food. - Lopty nie su jedlo.
+Bread is food. - Chlieb je jedlo.
+A hat is not food. - Klobuk nie je jedlo.
+Strawberries are food. - Jahody su jedlo.
+
+bananas in a basket - banany v kosi
+apples in boxes - jablka v bednickach
+bread in bags - chlieb v papierovych taskach
+tomatoes in a basket - paradajky v kosi
+
+a plate with no food - tanier bez jedla
+a table with food - stol s jedlom
+a table with no food - stol bez jedla
+a plate with food - tanier s jedlom

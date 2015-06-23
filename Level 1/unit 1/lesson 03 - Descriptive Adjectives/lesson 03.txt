@@ -1,0 +1,81 @@
+The fish is white. - Ryba je biela.
+The car is white. - Auto je biele.
+The car is red. - Auto je cervene.
+The bird is red. - Vtak je cerveny.
+
+The aeroplane is yellow. - Lietadlo je zlte.
+The car is white. - Auto je biele.
+The car is yellow. - Auto je zlte.
+The aeroplane is white. - Lietadlo je biele.
+
+The car is yellow. - Auto je zlte.
+The car is white. - Auto je biele.
+The car is red. - Auto je cervene.
+The car is blue. - Auto je modre.
+
+The car is black. - Auto je cierne.
+The cat is black. - Macka je cierna.
+The car is blue. - Auto je modre.
+The car is yellow. - Auto je zlte.
+
+The blue car is new. - Modre auto je nove.
+The pink car is old. - Ruzove auto je stare.
+The yellow car is old. - Zlte auto je stare.
+The red car is new. - Cervene auto je nove.
+
+an old house - stary dom
+an old car - stare auto
+a new car - nove auto
+a new house - novy dom
+
+a young woman - mlada zena
+an old house - stary dom
+a new house - novy dom
+an old woman - stara zena
+
+an old man - stary muz
+a young woman - mlada zena
+an old woman - stara zena
+a young man - mlady muz
+
+The girl has black hair. - Dievca ma cierne vlasy.
+The man has blue hair. - Muz ma modre vlasy.
+The old woman has white hair. - Stara zena ma biele vlasy.
+The man has red hair. - Muz ma cervene vlasy.
+
+The woman has short hair. - Zena ma kratke vlasy.
+The man has long hair. - Muz ma dlhe vlasy.
+The woman has long hair. - Zena ma dlhe vlasy.
+The man has very short hair. - Muz ma velmi kratke vlasy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+a boy - chlapec
+boys - chlapci
+girls - dievcata
+a girl - dievca
+
+a flower - kvet
+flowers - kvety
+an eye - oko
+eyes - oci
+
+a woman - zena
+women - zeny
+a man - muz
+men - muzi
+
+a dog - pes
+children - deti
+a child - dieta
+dogs - psi
+
+babies - batolata
+a baby - batola
+an egg - vajce
+eggs - vajcia
+
+Girls are running. - Dievcata bezia.
+A girl is running. - Dievca bezi.
+Boys are jumping. - Chlapci skacu.
+A boy is jumping. - Chlapec skace.
+
+A woman is singing. - Zena spieva.
+Women are singing. - Zeny spievaju.
+Men are dancing. - Muzi tancuju.
+A man is dancing. - Muz tancuje.
+
+a bird is flying - Vtak leti
+men on bicycles - muzi na bicykloch
+a boy on a bicycle - chlapec na bicykli
+birds are flying - vtaky letia
+
+The children are sitting. - Deti sedia.
+The child is sitting. - Dieta sedi.
+a bicycle - bicykel
+bicycles - bicykle
+
+The car is white. - Auto je biele
+The cars are white. Auta su biele.
+The horse is walking. - Kon kraca.
+The horses are walking. - Kone kracaju.
+
+
