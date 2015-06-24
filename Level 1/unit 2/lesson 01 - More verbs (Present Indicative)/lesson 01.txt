@@ -1,0 +1,50 @@
+The man is throwing the ball. - Muz hadze loptu. (to throw)
+The man is throwing the boy. - Muz hadze chlapca.
+The woman is throwing the ball. - Zena hadze loptu.
+The boy is throwing the ball. - Chlapec hadze loptu.
+
+The woman is catching the white ball. (to catch) - Zena chyta bielu loptu.
+The man is throwing the ball. - Muz hadze lotpu.
+The woman is catching the yellow ball. - Zena chyba zltu loptu.
+The boy is catching the rake. (rake - hrable) - Chlapec chyba hrable.
+
+The boy is catching the ball. - Chalpec chyba loptu.
+The boy is throwing the ball. - Chlapec hadze loptu.
+The boy in white is kicking the ball. - Chlapec v bielom kope do lopty.
+The boy in red is kicking the ball. - Chlapec v cervenom kope do lopty.
+
+The boy is running. - Chlapec uteka.
+The boy is cycling. (to cycle) - Chalpec sa bicykluje.
+The girl is riding. (to ride) - Dievca jazdi na koni.
+The girl is jumping. - Dievca skace.
+
+The woman is sitting. - Zena sedi.
+The boy is drinking. - Chlapec pije.
+The woman is running. - Zena uteka.
+The boy is smiling. (to smile - smiat sa) - Chlapec sa usmieva.
+
+The woman is reading. - Zena cita.
+The woman is pointing. (to point - ukazovat) - Zena ukazuje.
+The woman is talking on the telephone. - Zena hovori na telefone.
+The woman is smiling. - Zena sa usmieva.
+
+The girl is writing. - Dievca pise.
+The man is cycling. - Muz sa bicykluje.
+The man is laughing. (to laugh - smiat sa - vydavat zvuk) - Muz sa smeje.
+The little girl is laughing. - Male dievca sa smeje. 
+
+The bull is kicking. - Byk kope.
+The boy is smiling. - Chlapec sa smeje.
+The bull is running. - Byka uteka.
+The boy is kicking. - Chlapec kope (do lopty).
+
+The girl is smiling. - Dievca sa usmieva.
+The girl is lying down. (to lie - lezat) - Dievca lezi na zemi.
+The girl is running. - Dievca bezi.
+The girl is laughing. - Dievca sa smeje.
+
+The birds are flying. - Vtaky lietaju.
+The birds are walking. - Vtaky chodia.
+The birds are swimming. - Vtaky plavaju.
+The bird is flying. - Vtak leti.
+

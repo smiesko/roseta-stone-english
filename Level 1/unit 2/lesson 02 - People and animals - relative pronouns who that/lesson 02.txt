@@ -1,0 +1,58 @@
+He is a man. - On je muz.
+She is a woman. - Ona je zena.
+He is a boy. - On je chlapec.
+She is a girl. - Ona je dievca.
+
+The boy is a child. - Chlapec je dieta.
+The girl is a child. - Dievca je dieta.
+The man is an adult. - Muz je dospely.
+The woman is an adult. - Zena je dospela.
+
+three children - tri deti
+one adult and one child - jeden dospely a jedno dieta
+two adults - dvaja dospely
+two children - dve deti
+
+three adults - traja dospely
+one adult and two children - jeden dospely a dve deti
+two adults - dvaja dospely
+two children - dve deti
+
+A fish is an animal. - Ryba je zviera.
+A dog is an animal. - Pes je zviera.
+A girl is a person. - Dievca je osoba.
+A woman is a person. - Zena je osoba.
+
+
+A girl is not an adult. - Dievca nie je dospely.
+A girl is a child.		  Dievca je dieta.
+
+A fish is not a person. - Ryba nie je osoba.
+A fish is an animal.	  Ryba je zviera.
+
+A woman is not a child. - Zena nie je dieta.
+A woman is an adult.	  Zena je dospely.
+
+A dog is not a person.  - Pes nie je osoba.
+A dog is animal.		  Pes je zviera.
+
+
+two adults and two animals - dvaja dospeli a dve zvierata
+two adults and one child - dvaja dospeli a jedno dieta
+one child and one animal - jedno dieta a jedno zviera
+one animal - jedno zviera
+
+one animal - jedno zviera
+two people and two animals - dvaja ludia a dve zvierata
+three people - traja ludia
+one person and one animal - jedna osoba a jedno zviera
+
+an animal that is not a horse - zviera ktore nie je kon
+a person who is not a woman - osoba ktora nie je zena
+a person who is not a man - osoba ktora nie je muz
+an animal that is not an elephant - zviera ktore nie je slon
+
+a person who is not a child - osoba ktora nie je dieta
+a person who is not an adult - osoba ktora nie je dospely
+an animal that is not a cat - zviera ktore nie je macka
+an animal that is not a dog - zviera ktore nie je pes
