@@ -1,0 +1,52 @@
+The men and the women are dancing. - Muzi a zeny tancuju.
+The men are dancing. - Muzi tancuju.
+The women are dancing. - Zeny tancuju.
+The man and the woman are dancing. - Muz a zena tancuju.
+
+
+The man and the boy are sitting on the bicycle, but they are not riding the bicycle. - Muz a chlapec sedia na bicykli, ale oni nejazdia na bicykli. 
+The man and the boy are riding the bicycle. - Muz a chlapec jazdia na bicykli.
+The man is sitting on the bicycle and the boy is sitting on the fence. - Muz sedi na bicykli a chlapec sedi na plote. (fence - plot)
+The man and the woman are riding bicycles. - Muz a zena jazdia na bicykloch.
+
+The boy is lying on the ground. - Chlapec lezi na zemi.
+The woman is lying on the ground. - Zena lezi na zemi.
+The boy and the gril are sitting on the ground. - Chlapec a dievca sedia na zemi.
+The boy is sitting on the ground. - Chlapec sedi na zemi.
+
+The girls are standing on the table and the boys are standing on the ground. - Dievcata stoja na stole a chlapci stoja na zemi.
+The boys and the grils are standing on the table. - Chlapci a dievcata stoja na stole. 
+The girls and the boy are running. - Dievcata a chlapec utekaju.
+A boy and a gril are on the ground and a gril is standing on the table. - Chlapec a dievca su na zemi a dievca stoji na stole.
+
+The woman and the dog are walking. - Zena a pes kracaju.
+The man and the woman are sitting. - Muz a zena sedia.
+The man and the woman are walking. - Muz a zena kracaju.
+The man and the children are walking. - Muz a deti kracaju.
+
+The boys and girls are standing on the table. - Chlapci a dievcata stoja na stole.
+The boys and girls are jumping off the table. - Chlapci a dievcata skacu zo stola. (jump off - skakat z)
+The woman is walking and the man is riding a bike. - Zena kraca a muz jazdi na bicykli. 
+The man and the boy are in the aeroplane. - Muz a chlapec su v lietadle.
+
+The woman and the boy have balls on their heads. - Zena a chlapec maju lopty na ich hlavach.
+The man and the boy have ball on their heads. - Muz a chlapec maju lopty na ich hlavach.
+The woman and the boy are sitting on chairs. - Zena a chlapec sedia na stolickach. (chair - stolicka)
+The man and the boy are sitting. - Muz a chlapec sedia.
+
+The men and the woman are sitting in the car. - Muzi a zena sedia v aute.
+The man and the woman are sitting in the car. - Muz a zena sedia v aute.
+The man, the girl and the baby are sitting on the tractor. - Muz, dievca a batola sedia na traktore. (tractor - traktor)
+The man and the boy are sitting on the tractor. - Muz a chlapec sedia na traktore.
+
+The women and one man are standing and one man is sitting. - Zeny a jeden muz stoja a jeden muz sedi.
+The women are standing and the men are sitting. - Zeny stoja a muzi sedia.
+The men and one woman are sitting and one woman is standing. - Muzi a jedna zena sedia a jedna zena stoji.
+The men and the women are standing. - Muzi a zeny stoja.
+
+The man and the woman are standing on the wall. - Muz a zena stoja na mure. (wall - mur, stena)
+The women are standing on the wall. - Zeny stoja na mure.
+The man and the women are standing in front of the wall. - Muz a zeny stoja pred murom.
+The women are standing in front of the wall. - Zeny stoja pred murom.
+
+

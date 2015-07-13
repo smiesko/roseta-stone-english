@@ -1,0 +1,68 @@
+The woman is not running. - Zena nebezi
+This man has hair. - Tento muz ma vlasy.
+The woman is running. - Zena bezi.
+This man does not have hair. - Tento muz nema vlasy.
+
+The girl is not drinking. - Dievca nepije.
+The girl is drinking. - Dievca pije.
+This man is wearing a hard hat. - (hard hat - ochranna prilba) - Tento muz nosi ochrannu prilbu.
+This man is not wearing a hard hat. - Tento muz nenosi ochrannu prilbu.
+
+This woman is wearing a white hat. - Tato zena nosi biely klobuk.
+This woman is wearing a black hat. - Tato zena nosi cierny klobuk.
+The boy is wearing a white hat. - Chlapec nosi biely klobuk.
+The boy is wearing a black hat. - Chlapec nosi cierny klobuk.
+
+
+This woman is not wearing a white hat. - Tato zena nenosi biely klobuk.
+She is wearing a black hat.			   - Ona nosi cierny klobuk.
+
+The boy is not wearing a black hat. - Chlapec nenosi cierny klobuk.
+He is wearing a white hat.			- On nosi biely klobuk.
+
+This woman is not wearing a black hat. - Tato zena nenosi cierny klobuk.
+She is wearing a white hat.			   - Ona nosi biely klobuk.
+
+The boy is not wearing a white hat. - Chlapec nenosi biely klobuk.
+He is wearing a black hat.		    - On nosi cierny klobuk.
+
+
+This woman is not wearing a black hat. - Tato zena nenosi cierny klobuk.
+This woman is not wearing a white hat. - Tato zena nenosi biely klobuk.
+The boy is not wearing a black hat. - Chlapec nenosi cierny klobuk.
+The boy is not wearing a white hat. - Chlapec nenosi biely klobuk.
+
+This aeroplane is not flying. - Toto lietadlo neleti.
+The boys are jumping. - Chlapci skacu.
+The boys are not jumping. - Chlapeci neskacu.
+This aeroplane is flying. - Toto lietadlo leti.
+
+
+This girl is not walking. - Toto dievca nekraca.
+She is riding the horse.    Ona jazdi na koni.
+
+This boy is not swimming.       - Tento chlapec neplava.
+He is sitting in the aeroplane.   On sedi v lietadle.
+
+This boy is not sitting in the aeroplane. - Tento chlapec nesedi v lietadle.
+He is swimming.                             On plava.
+
+This girl is not riding the horse. - Toto dievca nejazdi na koni.
+She is walking.                      Ona kraca.
+
+
+This girl is not riding the horse. - Toto dievca nejazdi na koni.
+This boy is not sitting in the aeroplane. - Tento chlapec nesedi v lietadle.
+This girl is not walking. - Toto dievca nekraca.
+This boy is not swimming. - Tento chlapec neplava.
+
+The woman is using the phone. - Zena pouziva telefon.
+The girl is using the phone. - Dievca pouziva telefon.
+The woman is pointing. - Zena ukazuje.
+The woman is not using the phone and she is not pointing. - Zena nepouziva telefon a ona neukazuje.
+
+The man is riding the bike. - Muz jazdi na bicykli.
+The woman is not using the phone. - Zena nepouziva telefon. 
+The woman is not pointing. - Zena neukazuje.
+The man is not riding the bike. - Muz nejazdi na bicykli.
+

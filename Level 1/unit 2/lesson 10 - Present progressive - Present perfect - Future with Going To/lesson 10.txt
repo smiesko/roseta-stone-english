@@ -1,0 +1,61 @@
+The woman has jumped. - Zena skocila.
+The horse is jumping. - Kon skace.
+The horse has jumped. - Kon skocil.
+The woman is jumping. - Zena skace.
+
+The cowboy is falling. - Kovboj pada.
+The boy has fallen. - Chlapec spadol.
+The boy is falling. - Chlapec pada.
+The cowboy has fallen. - Kovboj spadol.
+
+The girl is cutting the paper. - Dievca striha papier. (to cut - strihat)
+The girl has cut the paper. - Dievca strihalo papier.
+The boy is jumping into the water. - Chlapec skace do vody.
+The boy has jumped into the water. - Chlapec skocil do vody.
+
+The horse has jumped. - Kon skocil.
+The horse is jumping. - Kon skace.
+The horse is going to jump. - Kon bude skakat.
+The child is going to jump. - Dieta bude skakat.
+
+The girl has cut the paper. - Dievca strihalo papier.
+The is cutting the papar. - Dievca striha papier.
+The girl is going to cut the paper. - Dievca bude strihat papier.
+This girl is jumping. - Toto dievca skace.
+
+These boys are jumping into the water. - Tieto chlapci skacu do vody.
+The boy is going to jump into the water. - Chlapec bude skakat do vody.
+The boy is jumping into the water. - Chlapec skace do vody.
+The boy has jumped into the water. - Chlapec skocil do vody.
+
+The rider is falling. - Jazdec pada. (fall - fell - fallen - padat)
+The rider is going to fall. - Jazdec spadne.
+The rider has fallen. - Jazdec spadol.
+The boy is falling. - Chlapec pada.
+
+
+The girls are not jumping. - Dievcata neskacu.
+
+The girls are not jumping. - Dievcata neskacu.
+The boy is jumping.          Chlapec skace.
+
+The girls have not jumped. - Dievcata neskocili. 
+The boy has jumped.          Chlapec skocil.
+
+The girls are not going to jump. - Dievcata nebudu skakat. 
+The boy is going to jump.          Chlapec bude skakat.
+
+
+The boy and the girls are jumping. - Chlapec a dievcata skacu. 
+The man is going to drink the milk. - Muz bude pit mlieko. (drink - drank - drunk - pit)
+The man is drinking the milk. - Muz pije mlieko.
+The man has drunk the milk. - Muz pil mlieko.
+
+The boy is going to eat the bread. - Chlapec bude jest chlieb.
+The boy is eating the bread. - Chlapec je chlieb. (eat - ate - eaten - jest)
+The boy has eaten some bread. - Chlapec jedol nejaky chlieb.
+The boy is wearing a hat. - Chlapec nosi klobuk. (hat - klobuk)
+
+
+
+

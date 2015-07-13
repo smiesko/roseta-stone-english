@@ -1,0 +1,49 @@
+a big square - velky stvorec
+a small square - maly stovrec
+a small circle - maly kruh
+a big circle - velky kruh
+
+The blue circle is bigger than the red circle. - Modry kruh je vacsi ako cerveny kruh.
+The red circle is bigger than the blue circle. - Cerveny kurh je vacsi ako modry kruh.
+The square is bigger than the circle. - Stovrec ja vacsi ako kurh.
+The circle is bigger than the square. - Kruh je vacsi ako stvorec.
+
+The circle is smaller than the square. - Kruh je mensi ako stvorec.
+The square is smaller than the circle. - Stvorec je mensi ako kruh.
+The blue circle is smaller than the red circle. - Modry kruh je mensi ako cerveny kurh.
+The red circle is smaller than the blue circle. - Cerveny kurh je mensi ako modry kruh.
+
+The biggest circle is black. - Najvacsi kurh je cierny.
+The biggest circle is blue. - Najvacsi kruh je modry.
+The biggest circle is yellow. - Najvacsi kruh je zlty.
+The biggest circle is red. - Najvacsi kruh je cerveny.
+
+The smallest square is yellow. - Najmensi stvorec je zlty.
+The smallest square is blue. - Najmensi stvorec je modry.
+The smallest square is red. - Najmensi stvorec je cerveny.
+The smallest square is white. - Najmensi stvorec je biely.
+
+a blue rectangle - modry odbdlznik
+a yellow rectangle - zlty obdbliznik
+a red rectangle - cerveny obdlznik
+a white rectangle - biely obdlznik
+
+a small rectangle - maly obdlznik
+a red circle - cerveny kruh
+a big rectangle - velky odblznik
+a green circle - zeleny kruh
+
+a long rectangle - dlhy obdlznik
+a short rectangle - kratky obdlznik
+a woman with long hair - zena s dlhymi vlasmi
+a woman with short hair - zena s kratkymi vlasmi
+
+The red square is bigger than the red circle. - Cerveny stvorec je vacsi ako cerveny kurh.
+The red circle is biger than the red squre. - Cerveny kurh je vacsi ako cerveny stvorec.
+The yellow rectangle is longer than the green rectangle. - Zlty obdlznik je dlshi ako zeleny obdlznik.
+The green rectangle is longer than the yellow rectangle. - Zeleny obdlznik je dlhsi ako zlty obdlznik.
+
+The yellow triangle is smaller than the green triangle. - Zlty trojuholnik je mensi ako zeleny trojuhonik.
+The green triangle is smaller than the yellow triangle. - Zeleny trojuholnik je mensi ako zlty trojuholnik.
+The yellow rectangle is shorter than the green rectangle. - Zlty obdlznik je kratsi ako zeleny obdlznik.
+The green rectangle is shorter than the yellow rectangle. - Zeleny obdlznik je kratsi ako zlty obdlznik.

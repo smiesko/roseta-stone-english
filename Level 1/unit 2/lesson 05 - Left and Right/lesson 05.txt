@@ -1,0 +1,57 @@
+Two yellow balls are in her left hand. - Dve zlte lopty su v jej lavej ruke.
+Two yellow balls are in her right hand. - Dve zlte lopty su v jej pravej ruke.
+A yellow ball is in her left hand. - Zlta lopta je v jej lavej ruke.
+One yellow ball is in her right hand. - Jedna zlta lopta je v jej pravej ruke.
+
+The ball is in the woman's right hand. - Lopta je v zeninej pravej ruke.
+The woman has two balls in her left hand and two balls in her right hand. - Zena ma dve lopty v lavej ruke a dve lopty v pravej ruke.
+Tha cup is in the woman's right hand. (cup - pohar) - Pohar je v zeninej pravej ruke.
+The pen is in the woman's right hand. Tha paper is her left hand. - Pero je v zeninej pravej ruke. Papier je v jej lavej ruke.
+
+Where is the hat? The girl is holding the hat in her right hand. (to hold - drzat) - Kde je klobuk? Dievca drzi klobuk v jej pravej ruke.
+Where is the ball? The ball is in her right hand. - Kde je lopta? Lopta je v jej pravej ruke.
+Where is the ball? The ball is in her left hand. - Kde je lopta? Lopta je v jej lavej ruke.
+Where is the hat? The girl is holding a hat in her left hand. - Kde je klobuk? Dievca drzi klobuk v jej lavej ruke.
+
+The girl has something in her right hand. - Dievca ma nieco v svojej pravej ruke.
+The woman is holding the telephone in her left hand. - Zena drzi telefon vo svojej lavej ruke.
+The woman is holding the telephone in her right hand. - Zena drzi telefon vo svojej pravej ruke.
+The girl has something in her left hand. - Dievca ma nieco vo svojej lavej ruke.
+
+
+Both women are pointing. 															 - Obe zeny ukazuju. 
+One is pointing with her right hand and the other one is poining with her left hand. - Jedna ukazuje so svojou pravou rukou a druha ukazuje so svojou lavou rukou.
+
+Neither woman is pointing. - (neither - ziadny, ziadna, ziadne) - Ziadna zena neukazuje.
+
+One woman is pointing.              - Jedna zena ukazuje.
+She is pointing with her left hand. - Ona ukazuje so svojou lavou rukou.
+
+One woman is pointing.				 - Jedna zena ukazuje.
+She is pointing with her right hand. - Ona ukazuje so svojou pravou rukou.
+
+
+The microphone is in the singer's left hand. - Mikrofon je v spevakovej lavej ruke.
+The man has one guitar in the right hand and one in the left hand. - Muz ma jednu gitaru v pravej ruke a jednu v lavej ruke.
+The microphone is in the singer's right hand. - Mirkofon je v spevakovej pravej ruke.
+Tha man is playing the guitar. - Muz hra na gitare.
+
+No left turn - zakaz odbocenia vlavo
+No right turn - zakaz odbocenia vpravo
+No parking - zakaz parkovania
+No U-turn - zakaz otacania sa
+
+This window is square. - Toto okno je stvorcove.
+This clock is square. - Tieto hodiny su stvorcove.
+This window is round. - Toto okno je okruhle.
+This clock is round. - Tieto hodiny su okruhle.
+
+This sign is square. - Tato znacka je stvorcova.
+This sign is rectangular - Tato znacka je obdlznikova.
+This sign is round. - Tato znacka je okruhla.
+This sign is not rectangular, round or square. - Tato znacka nie je obdlznikova, okruhla alebo stvorcova.
+
+Warning, children - upozornenie, deti
+Warning, cows - upozornenie kravy
+Warning, kangaroos - upozornenie, klokany
+Warning, deer - upozornenie jelen

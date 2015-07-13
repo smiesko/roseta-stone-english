@@ -1,0 +1,50 @@
+a man with a big hat - muz s velkym klobukom
+a big car - velke auto
+a man with a big fish - muz s velkou rybou
+a man with a big tool - muz s velkym nastrojom
+
+a small horse - maly kon
+a small car - male auto
+a small tent - (tent - stan) - maly stan
+a big ball and a small ball - mala lopta a velka lopta
+
+a big number two - velke cislo dva
+a small number two - male cislo dva
+a big number one - velke cislo jeden
+a small number one - male cislo jeden
+
+a big umbrella - velky dazdnik
+a small horse - maly kon
+a big horse - velky kon
+a small umbrella - maly dazdnik
+
+a small person - mala osoba
+a small animal - male zviera
+a big animal - velke zviera
+a big person - velka osoba
+
+a small bout (bout - lod) - mala lod
+a big box - velka krabica
+a big bout - velka lod
+a small box - mala krabica
+
+a big lorry - (lorry - nakladiak) - velky kamion
+a small hat - maly klobuk
+a big televison - velka telka
+a big hat - velky klobuk
+
+a small car - male auto
+a small sofa - (sofa - pohovka, guac) - mala pohovka
+a big sofa - velka pohovka
+a big car - velke auto
+
+a big ball - velka lopta
+a big wheel and a small wheel - (wheel - koleso) - velke koleso a mala koleso
+a big wheel - velke koleso
+a small ball - mala lopta
+
+a big white wheel - velke biele koleso
+a big black wheel - velke cierne koleso
+a big blue wheel - velke modre koleso
+a big wheel and a small wheel - velke koleso a male koleso
+

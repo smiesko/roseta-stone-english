@@ -1,0 +1,51 @@
+a face - tvar
+a mouth - usta
+an eye - oko
+a nose - nos
+
+The man is touching the horse's ear. - Muz sa dotyka ucha konika. (to touch - dotknut)
+an ear - ucho
+human feet - ludske chodidla
+elephant feet - slonie chodidla
+
+a woman's head - zenska hlava
+a man's head - muzska hlava
+a hand - ruka
+hands and feet - ruky a chodidla
+
+three hands - tri ruky
+four arms - styri ramena
+four hands - styri ruky
+three arms - tri ramena
+
+The man's hands are on his knees. - Muzove ruky su na jeho kolenach.
+The man's hands are on the table. - Muzove ruky su na stole.
+The man's head is in his hands. - Muzova hlava je v jeho rukach.
+One hand is on the man's face and one is on his elbow. - Jedna ruka je na muzovej tvari a jedna je na jeho lakti.
+
+The man's hand is on his head. - Muzova ruka je na jeho hlave.
+The young man's elbows are on the table. - Lakte mladeho muza su na stole.
+The woman's arms are on her knees. - Zenine ramena su na jej kolenach.
+The man's hands are on the table. - Muzove ruky su na stole.
+
+an ear - ucho
+a nose and a mouth - nos a usta
+a face - tvar
+two eyes and a nose - dve oci a nos
+
+The child is holding a cup to her mouth. - Dieta drzi salku na jej ustach.
+The woman is holding a cup to her mouth - Zena drzi salku na jej ustach.
+This young man has food in his mouth. - Tento mlady muz ma jedlo vo svojich ustach.
+This young man doesn't have food in his mouth. - Tento mlady muz nema jedlo vo svojich ustach.
+
+He is touching his mouth. - On sa dotyka jeho ust. 
+He is touching his nose. - On sa dotyka jeho nosa.
+She is touching her eye. - Ona sa dotyka jej oka.
+She is touching her chin. - Ona sa dotyka jej brady.
+
+The woman is combing her own hair. - Zena si cese svoje vlastne vlasy. (to comb - cesat)
+The woman is combing the girl's hair. - Zena cese dievcatu vlasy.
+The woman is brushing the girl's hair. - Zena kefuje dievcatu vlasy. (to brush - kefovat)
+The woman is brushing her own hair. - Zena si kefuje svoje vlasy.
+
+

@@ -1,0 +1,52 @@
+The bananas are in the basket. - Banany su v kosiku.
+The people are in the boat. - Ludia su v clne.
+The people are not in the boat. - Ludia nie su v clne.
+The man is in the pick-up truck. - Muz je v malej dodavke. (pick-up truck - mala dodavka)
+
+The boy is on the fence, and the man is on the bicyle. - Chlapec je na plote a muz je na bicykli.
+The hat is on the boy. - Klobuk je na chlapcovi.
+The children are on the table. - Deti su na stole.
+The ball is on the boy. - Lopta je na chlapcovi.
+
+The boy is beside the bicycle. - Chlapec je vedla bicykla.
+This man is on a horse. - Tento muz je na koni.
+This man is beside a horse. - Tento muz je vedla kona.
+The boy is on the bicycle. - Chlapec je na bicykli.
+
+The donkey is not under the man. - Somar nie je pod muzom.
+The sweet is under the shelf. - Sladkosti su pod policou.
+The sweets are in the man's hand. - Sladkosti su v muzovej ruke.
+The donkey is under the man. - Somar je pod muzom.
+
+This boy is behind the tree. - Tento chlapec je za stromom.
+This boy is in front of the tree. - Tento chlapec je pred stromom.
+This man is behind a car. - Tento muz je za autom.
+This man is in front of a car. - Tento muz je pred autom.
+
+This cup is on the saucer. - Tato salka je na tanieriku. (cup - salka, saucer - tanierik)
+The number five is between one and the zero. - Cislo pat je medzi jednickou a nulou.
+The medium-sized bowl is between the big bowl and the small bowl. - Stredne velka miska je medzi velkou miskou a malou miskou.
+The two bowls are beside each other. - Dve misky su vedla seba.
+
+The man is between two women. - Muz je medzi dvomi zenami.
+The man is beside two women. - Muz je vedla dvoch zien.
+The dog is between two people. - Pes je medzi dvoma ludmi.
+The dog is besides two people. - Pes je vedla dvoch ludi.
+
+a boy without a stick - chlapec bez palice
+a boy with a stick - chlapec s palicou
+two people with glasses - dvaja ludia s okuliarmi
+two people without glasses - dvaja ludia bez okuliarov
+
+The aeroplane is on the ground. - Lietadlo je na zemi.
+The fish are around the diver. - Ryby su okolo potapaca.
+The aeroplane is above the ground. - Lietadlo je nad zemou.
+The chairs are around the table. - Stolicky su okolo stola.
+
+The bicycle is beside the car. - Bicykel je vedla auta.
+The bicycle is behind the car. - Bicykel je za autom.
+The man is behind the bicycle. - Muz je za bicyklom.
+The man is beside the bicycle. - Muz je vedla bicykla.
+
+
+
