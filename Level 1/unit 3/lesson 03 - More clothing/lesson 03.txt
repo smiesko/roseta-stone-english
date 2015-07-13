@@ -1,0 +1,51 @@
+The boy is wearing a red sweater. - Chlapec nosi cerveny sveter. (sweater - sveter)
+The man is wearing a blue sweater. - Muz nosi modry sveter.
+The girls are wearing dresses. - Dievcata nosia saty.
+The woman is wearing a purple sweater. - Zena nosi fialovy sveter.
+
+The boy is wearing blue trousers. - Chlapec nosi modre nohavice. (trousers - nohavice)
+The boy is wearing a blue T-shirt. - Chlapec nosi modre tricko. (T-shirt - tricko)
+The woman is wearing a black shirt. - Zena nosi ciernu koselu. (shirt - kosela, bluza)
+The woman is wearing black trousers. - Zena nosi cierne nohavice.
+
+two socks - dve ponozky (sock - ponozka)
+one shoe - jedna topanka (shoe - topanka)
+one sock - jedna ponozka
+two shoes - dve topanky
+
+He is wearing a sweater. - On nosi sveter.
+She is wearing red and white sweater. - Ona nosi cerveno-biely sveter.
+She is wearing a purple top. - Ona nosi fialovy vrch.
+He is not wearing a sweater. - On nenosi sveter.
+
+The woman is wearing a red coat. - Zena nosi cerveny kabat. (coat - kabat)
+The woman is wearing a red dress. - Zena nosi cervene saty.
+She is wearing a red and white sweater and jeans. - Ona nosi cerveno-biely sveter a rifle.
+She is wearing a red skirt. - Ona nosi cervenu suknu. (skirt - sukna)
+
+He is wearing black shorts and a white shirt. - On nosi cierne kratase a biele tricko. (shorts - kratase)
+One person is wearing a yellow top and the other person is wearing a red top. - Jedna osoba nosi zlty vrch a druha osoba nosi cerveny top.
+One woman is wearing a yellow dress and the another woman is waring a red dress. - Jedna zena nosi zlte saty a dalsia zena nosi cervene saty.
+She is not wearing anything. - Ona nenosi nic.
+
+She is wearing a skirt. - Ona nosi suknu.
+She is wearing shorts. - Ona nosi kratase.
+She is wearing a dress. - Ona nosi saty.
+She is wearing trousers. - Ona nosi nohavice.
+
+He is wearing blue trousers. - On nosi modre nohavice.
+He is wearing a blue sweater. - On nosi modry sveter.
+He is wearing a blue shirt. - On nosi modre tricko.
+He is wearing a blue jacket. - On nosi modru bundu.
+
+He is putting on trousers. - On si oblieka nohavice. (put on - obliekat si)
+He is putting on a shirt. - On si oblieka koselu.
+He is putting on a shoe. - On si oblieka topanku.
+He is putting on a sock. - On si oblieka ponozku.
+
+The man with glasses is wearing a sweater. - Muz s okuliarmi nosi sveter.
+The clown is putting on trousers. - Klavn si oblieka nohavice.
+The clown is wearing trousers. - Klavn nosi nohavice.
+The man with glasses is putting on a sweater. - Muz s okuliarmi si oblieka sveter.
+
+

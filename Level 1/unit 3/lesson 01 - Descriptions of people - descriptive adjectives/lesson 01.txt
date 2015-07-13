@@ -1,0 +1,51 @@
+an older woman - starsia zena
+a younger woman - mladsia zena
+a younger man - mladsi muz
+an older man - starsi muz
+
+two dancers - dvaja tanecnici
+a group of dancers - skupina tanecnikov
+a group of runners - skupina bezcov
+two runners - dvaja bezci
+
+This young man has long hair. - Tento mlady muz ma dlhe vlasy.
+This young man has short hair. - Tento mlady muz ma skratke vlasy.
+The two young women has long hair. - Dve mlade zeny maju dlhe vlasy.
+One young woman has long hair and one young woman has short hair. - Jedna mlada zena ma dlhe vlasy a jedna mlada zena ma kratke vlasy.
+
+Who has long blond hair? - Kto ma dlhe blond vlasy?
+Who has long brown hair? - Kto ma dlhe hnede vlasy?
+Who has short black hair? - Kto ma kratke cierne vlasy?
+Who is bald? - Kto je plesaty? (bald [bold]- plesaty)
+
+This young man has curly hair. - Tento mlady muz ma brckave vlasy. (curly - brckave)
+This young woman has straight hair. - Tato mlada zena ma rovne vlasy. (straight - rovne)
+This young man has straight hair. - Tento mlady muz ma rovne vlasy.
+This young woman has curly hair. - Tato mlada zena ma brckave vlasy.
+
+Who has long straight black hair? - Kto ma dlhe rovne cierne vlasy?
+Who has short curly black hair? - Kto ma kratke kucerave cierne vlasy?
+Who has short straight black hair? - Kto ma kratke rovne cierne vlasy?
+Who has long curly black hair? - Kto ma dlhe brckave cierne vlasy?
+
+The women are very fat. - Zeny su velmi tucne. (fat - tucny)
+The women are thin. - Zeny su stihle. (thin - stihly)
+The man on the left is fat. The man on the right is thin. - Muz vlavo je tucny. Muz vpravo je stihly.
+The man on the right is fat. The man on the left is thin. - Muz vpravo je tucny. Muz vlavo je stihly.
+
+The woman in red is short. - Zena v cervenom je nizka. (short - nizky)
+The woman in red is tall. - Zena v cervenom je vysoka. (tall - vysoky)
+The clown on the left is short. The clown on the right is tall. - Klavn nalavo je nizky. Klavn napravo je vysoky. (clown - klavn)
+The clown on the left is tall. The clown on the right is short. - Klavn nalavo je vysoky. Klavn napravo je nizky. 
+
+Which tall man is wearing glasses? - Ktory vysoky muz nosi okuliare?
+Which tall man is not wearing glasses? - Ktory vysoky muz nenosi okuliare?
+Which short person is not wearing glasses? - Ktora nizka osoba nenosi okuliare?
+Which short person is wearing glasses? - Ktora nizka osoba nosi okuliare?
+
+The woman has curly, blond hair. - Zena ma brckave blond vlasy.
+The woman has black hair. - Zena ma cierne vlasy.
+The woman has straight, blond hair. - Zena ma rovne blond vlasy.
+The woman has grey hair. - Zena ma sive vlasy. (grey - sivy, sedy)
+
+

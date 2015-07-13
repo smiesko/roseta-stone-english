@@ -1,0 +1,51 @@
+a few ballons - par balonov (few - par, malo, niekolko POCITATELNE)
+one boy - jeden chlapec
+many ballons - vela balonov (many - mnoho, vela POCITATELNE)
+many boys - vela chlapcov
+
+one umbrella - jeden dazdnik
+one hat - jeden klobuk
+many umbrellas - vela dazdnikov
+many hats - vela klobukov
+
+no bread - ziadny chlieb
+one loaf of bread - jeden bochnik chleba (loaf of bread - bochnik chleba)
+many loaves of bread - vela bochnikov chleba
+two loaves of bread - dva bochniky chleba (loaves of bread [lo:vz]- bochniky chleba)
+
+many cowboy hats and no cowboys - vela kovbojskych klobukov a ziadny kovboji
+a cowboy with a horse - kovboj s konom
+a cowboy with no horse - kovboj bez kona
+two cowboys with several horses (several - niekolko)
+
+How many marbles are there? There is one marble. - Kolko guliciek je tam? Tam je jedna gulicka. (marble - gulicka)
+How many marbles are there? There are a few marbles. - Kolko guliciek je tam? Je tam malo guliciek. (a few marbles - malo guliciek)
+How many marbles are there? There are many marbles. - Kolko guliciek tam je? Je tam vela guliciek.
+How many coins are there? There are many coins. - Kolko minci tam je? Je tam vela minci.
+
+many apples and no bananas - vela jablk a ziadne banany
+many tomatoes and no bananas - vela paradajok a ziadne banany
+many bananas and no apples - vela bananov a ziadne jablka
+many tomatoes and a few bananas - vela paradajok a trochu bananov
+
+There are the same number of men as women. - Je tam rovnaky pocet muzov i zien. (the same number of ... as ...)
+There are more buses than cars. - Je tam viac autobusov ako aut. (more ... than ...)
+There are more chairs than tables. - Je tam viac stoliciek ako stolov.
+There are more tomatoes than bananas. - Je tam viac paradajok ako bananov.
+
+There are more people than umbrellas. - Je tam viac ludi ako dazdnikov.
+There are more people than horses. - Je tam viac ludi ako koni.
+There are more horses than people. - Je tam viac koni ako ludi.
+There are as many umbrellas as people. - Je tam tak vela dazdnikov ako ludi. (as many ... as ...)
+
+There are fewer horses than people. - Je tam menej koni ako ludi. (fewer ... than ...)
+There are fewer people than horses. - Je tam menej ludi ako koni.
+There are fewer umbrellas than people. - Je tam menej dazdnikov ako ludi.
+There are as many horses as people. - Je tam tak vela koni ako ludi.
+
+There are fewer girls than boys. - Je tam menej dievcat ako chlapov.
+There are more girls than boys. - Je tam viac dievcat ako chlapov.
+There are no girls and no boys. - Nie su tam ziadne dievcata ani chlapci.
+There are the same numbers of girls as boys. - Je tam rovnaky pocet dievcat ako chlapov.
+
+
