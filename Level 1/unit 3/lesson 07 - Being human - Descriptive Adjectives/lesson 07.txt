@@ -1,0 +1,49 @@
+The woman is hungry. - Zena je hladna. (hungry - hladny)
+The woman is full. - Zena je plna (syta). (full - plny, syty)
+The man is hungry. - Muz je hladny.
+The man is full.
+
+They are cold. - Je im zima. (be cold - byt zima, chladno)
+They are hot. Je im teplo. (be hot - byt teplo, horuco)
+He is cold. - Je mu zima.
+He is hot. - Je mu horuco.
+
+She is tired. - Ona je unavena. (be tired - byt unaveny)
+She is not tired. - Ona nie je unavena. 
+They are tired. - Oni su unaveni.
+They are not tired. - Oni nie su unaveni.
+
+He is weak. - On je slaby. (weak - slaby)
+They are not tired. - Oni nie su unaveni.
+They are hot and tired. - Je im teplo a su unaveni.
+He is strong. - On je silny.
+
+The man is healthy. - Muz je zdravy. (be healthy - byt zdravy)
+The man is ill. - Muz je chory. (be ill - byt chory)
+The bird is beautiful. - Vtak je krasny. (beautiful - prekrasny)
+The bird is ugly. - Vtak je skaredy. (ugly - skaredy)
+
+The woman is not full. - Zena nie je syta.
+The woman is not hungry. - Zena nie je hladna.
+The man is not hungry. - Muz nie je hladny.
+The man is not full. - Muz nie je plny.
+
+The boy and the dog are happy. - Chlapec a pes su stastni. (happy - stastny)
+The boy and the dog are sad. - Chlapec a pes su smutni. (sad - smutny)
+The man is happy. - Muz je stastny.
+The woman is sad. - Zena je smutna.
+
+He is tired. She is not tired. - On je unaveny. Ona nie je unavena.
+They are tired. - Oni su unaveni.
+She is tired. He is not tired. - Ona je unavena. On nie je unaveny.
+He is tired. They are not tired. - On je unaveny. Oni nie su unaveni.
+
+He is rich. - On je bohaty. (rich - bohaty)
+He is cold. - Je mu zima.
+He is thirsty. - On je smadny.
+He is ill. - On je chory.
+
+The people are not hot. - Ludom nie je horuco.
+Someone is thirsty. - Niekto je smadny. (thirsty - smadny)
+Someone is hungry. - Niekto je hladny.
+The people are hot and tired. - Ludom je teplo a su unaveni.

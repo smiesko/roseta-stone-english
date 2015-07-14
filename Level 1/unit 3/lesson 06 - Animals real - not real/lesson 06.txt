@@ -1,0 +1,51 @@
+One grey fish is swimming. - Jedna siva ryba plava.
+A white dog is walking. - Biely pes kraca.
+A cat is walking. - Macka kraca.
+Two grey fish are swimming. - Dve sive ryby plavaju.
+
+Two cows are running. - Dve kravy utekaju.
+a herd of goats - stado koz (herd - stado)
+a kangaroo - klokan
+a herd of cows - stado krav
+
+a lion - lev
+a black swan - cierna labut (swan - labut)
+one turtle - jedna korytnacka
+many sheep are standing - viacero oviec stoji (sheep - ovca)
+
+a giraffe - zirafa
+The bird is sitting. - Vtak sedi.
+a white swan - biela labut
+A bird is flying. - Vtak leti.
+
+one tiger - jeden tiger
+one bear - jeden medved
+two cows - dve kravy
+two pigs - dve prasiatka (pig - prasiatko)
+
+a sheep - ovca
+an elephant - slon
+The camel is standing on three legs. - Tava stoji na troch nohach. (leg - noha, camel - tava)
+The camel is standing on four legs. - Tava stoji na styroch nohach.
+
+This bird is a real one. - Tento vtak je skutocny. (real - skutocny)
+This bird is not a real one. - Tento vtak nie je skutocny.
+This horse is not a real one. - Tento kon nie je skutocny.
+This horse is a real one. - Tento kon je skutocny.
+
+These two cows are real ones. - Tieto dve kravy su skutocne.
+This horse is a real one. - Tento kon je skutocny.
+These two cows are not real ones. - Tieto dve kravy nie su skutocne.
+A rocking horse is not a real horse. - Hojdaci konik nie je skutocny kon. (rocking horse - hojdaci konik)
+
+Which sheep is a real one? - Ktora ovca je skutocna?
+Which sheep is not a real one? - Ktora ovca nie je skutocna?
+Which cat is a real one? - Ktora macka je skutocna?
+Which cat is not a real one? - Ktora macka nie je skutocna?
+
+The white tiger is walking. - Biely tiger kraca.
+The white tiger is lying down. - Biely tiger lezi na zemi.
+The white tiger is climbing. - Biely tiger lezie. (to climb - liezt, splhat sa)
+a dragon - drak (dragon - drak)
+
+

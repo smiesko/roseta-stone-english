@@ -1,0 +1,50 @@
+The boy is under the table. - Chlapec je pod stolom.
+The children are standing on the table. - Deti stoja na stole.
+The boy is sitting at the table. - Chlapec sedi za stolom. (at the table - za stolom)
+The children are skipping. - Deti skacu.
+
+Who is running? The men are running. - Kto bezi? Muzi bezia.
+Who is running? The girls are running. - Kto bezi? Dievcata bezia.
+Who is sitting down? The boy is sitting down. - Kto sedi dole? Chlapec sedi dole.
+Who is jumping? The children are jumping. - Kto skace? Deti skacu.
+
+How many children are standing? Three children are standing. - Kolko deti stoji? Tri deti stoja.
+How many children are jumping? Three children are jumping. - Kolko deti skace? Tri deti skacu.
+How many children are jumping? Four children are jumping. - Kolko deti skace? Styri deti skacu.
+How many children are standing on the table? One girl is. - Kolko deti stoji na stole? Jedno dievca.
+
+How many girls are wearing white blouses? One is. - Kolko dievcat nosi biele bluzky? Jedno.
+How many boys are sitting down? One is. - Kolko chlapcov sedi dole? Jeden. (sit down - sediet dole (na zemi))
+How many girls are wearing white blouses? Two are. - Kolko dievcat nosi biele bluzky? Dve.
+How many boys are sitting down? Two are. - Kolko chlapcov sedi dole? Dvaja.
+
+The boy is running. He is not skipping. - Chlapec bezi. On neskace.
+The girl is on the table. She is skipping. - Dievca je na stole. Ona skace.
+Three children are playing. They are skipping. - Tri dievcata sa hraju. Oni skacu.
+The children are on the table. They are not skipping. - Deti su na stole. Oni neskacu.
+
+The boy is turning the skipping rope and the girl is skipping. - Chlapec otaca lanom a dievca skace.
+The boy who is not skipping is running. - Chlapec ktory neskace, uteka.
+The girl on the table is skipping. - Dievca na stole skace.
+The boy who is not running is skipping. - Chlapec ktory neuteka, skace.
+
+These flowers are outside. - Tieto kvety su vonku.
+This cat is inside. - Tato macka je dnu.
+This cat is outside. - Tato macka je vonku.
+These flowers are inside. - Tieto kvety su dnu.
+
+This is the outside of the church. - Toto je vonkajsok kostola. (church - kostol)
+This is the inside of the church. - Toto je vnutrajsok kostola.
+This is the outside of a house. - Toto je vonkajsok domu.
+This is the inside of a house. - Toto je vnutrajsok domu.
+
+This is the outside of the building. - Toto je vonkajsok budovy. (building - budova)
+This is the inside of the building. - Toto je vnutrajsok budovy. 
+The boy is lying down inside. - Chlapec lezi (na zemi) vnutri.
+The boy is lying down outside. - Chlapec lezi (na zemi) vonku.
+
+Which boy is inside? - Ktory chlapec je vo vnutri?
+Which boy is outside? - Ktory chlapec je vonku?
+Which children are outside? - Ktore deti su vonku?
+Which children are inside?
+

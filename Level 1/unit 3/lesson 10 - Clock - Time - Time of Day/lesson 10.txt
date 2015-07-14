@@ -1,0 +1,49 @@
+ten - desat
+five - pat
+fifteen - patnast
+twenty - dvadsat
+
+It is six o'clock. - Je sest hodin.
+It is two o'clock. - Su dve hodiny.
+It is four o'clock. - Su styri hodiny.
+It is eight o'clock. - Je osem hodin.
+
+It is seven thirty. - Je sedem tridsat.
+It is three thirty - Je tri tridsat.
+It is five thirty. - Je pat tridsat.
+It is nine thirty. - Je devat tridsat.
+
+It is six thirty. - Je sest tridsat.
+It is seven o'clock. - Je sedem hodin.
+It is six o'clock. - Je sest hodin.
+It is seven thirty. - Je seden tridsat.
+
+It is two thirty. - Je dve tridsat.
+It is a quarter to three. - Je o patnast minut tri. (quarter to three - je tristvrte na tri)
+It is two fifteen. - Je dve patnast.
+It is two o'clock. - Su dve hodiny.
+
+It is a quarter to eight. - Je stvrt na osem.
+It is eight o'clock. - Je osem hodin.
+It is a quarter past eight. - Je patnast minut po osmej.
+It is eight thirty. - Je osem tridsat.
+
+It is just after five o'clock. - Je tesne po piatej. (just after five o'clock - tesne po piatej)
+It is five o'clock. - Je pat hodin.
+It is almost five o'clock. - Je takmer pat hodin. (almost five o'clock - takmer pat hodin)
+It is five thirty. - Je pat tridsat.
+
+It is two o'clock. - Su dve hodiny.
+It's almost two o'clock. - Su takmer dve hodiny.
+It is two thirty. - Je dve tridsat.
+It is a little after two o'clock. - Je tesne po druhe. (a little after two o'clock - je tesne po druhej)
+
+It is seven o'clock. - Je sedem hodin.
+It is a quarter past seven. - Je stvrt po siedmej.
+It is seven thirty. - Je sedem tridsat.
+It is seven forty-five. - Je sedem styridsatpat.
+
+It is almost eleven thirty in the morning. - Je takmer jedenast tridsat rano.
+It is a little after five o'clock. - It is afternoon. - Je trochu po piatej hodine. Je popoludnie.
+It is almost ten thirty. It is morning. - Je takmer desat tridsat. Je rano.
+It is a quarter to nine. It is night. - Je stvrt na devat. Je noc.

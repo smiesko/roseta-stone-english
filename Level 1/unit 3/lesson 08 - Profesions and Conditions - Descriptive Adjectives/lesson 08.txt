@@ -1,0 +1,49 @@
+a nurse - zdravotna sestra
+a doctor - doktor
+a mechanic - mechanik
+a student - student
+
+a dentist - zubar
+a carpenter - stolar
+a police officer - policajt
+a scientist - vedec
+
+a secretary - sekretarka
+a chef - sef
+a teacher - ucitel
+a waiter - casnik
+
+He is embarrassed. - On je v rozpakoch. (be embarrassed - byt v rozpakoch)
+He is afraid. - On ma strach. (be afraid - mat strach)
+He is in pain. - Ma bolest. (be in pain - mat bolest)
+He is ill. - Je chory.
+
+The man is not cold. - Muzovi nie je zima.
+The man is afraid. - Muz sa boji.
+The man is not hot. - Muzovi nie je horuco.
+The man is a doctor. - Muz je doktor.
+
+The man is proud of his car. - Muz je pysny na svoje auto. (be proud of ... - byt pysny na)
+The man is thin. - Muz je chudy.
+The man is fat. - Muz je tucny.
+The man is proud of his son. - Muz je pysny na svojho syna.
+
+This man is rich. - Tento muz je bohaty.
+a bank - banka
+a police station - policajna stanica
+This man is getting money in a bank. - Tento muz dostava peniaze v banke. (to get moeny - dostat peniaze)
+
+She is cooking. - Ona vari.
+He is in pain. - On ma bolesti.
+He is cooking. - On vari.
+He is embarrassed. - On je v rozpakoch.
+
+The doctor is taking care of the man. - Doktor sa stara o muza. (to take care of - starat sa o ..., davat pozor na ...)
+The mechanic is repairing the car. - Mechanik opravuje auto. (to repair - opravovat)
+The nurse is taking care of the man. - Zdravotna sestra sa stara o muza.
+The dentist is working on man's teeth. - Zubar pracuje na muzovych zuboch. (work on - pracovat na)
+
+The students are reading. - Studenti citaju.
+The secreatary is typing. - Sekretarka pise na stroji. (secretary - sekretarka, to type - pisat na stroji)
+The teacher is teaching the students. - Ucitel uci studentov.
+The baker is baking bread. - Pekar pecie chlieb. (baker - pekar, to bake - piect)
