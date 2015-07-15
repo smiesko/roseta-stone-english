@@ -1,0 +1,49 @@
+This woman's eyes are open. - Tejto zene oci su otvorene. (open - otvoreny)
+The car door is closed. - Dvere auta su zatvorene. (closed - zatvoreny)
+This woman's eyes are closed. - Tejto zene oci su zatvorene.
+The car door is open. - Dvera auta su otvorene.
+
+Her mouth is closed. - Jej usta su zatvorene.
+Her mouth is open. - Jej usta su otvorene.
+The eyes are open. - Oci su otvorene.
+The eyes are closed. - Oci su zatvorene.
+
+The woman's mouth is open and her eyes are open. - Zenine usta su otvorene a jej oci su otvorene.
+The woman's eyes are closed and her mouth is closed. - Zenine oci su zatvorene a jej usta su zatvorene.
+The man's eyes are closed and his mouth is open. - Muzove oci su zatvorene a jeho usta su otvorene.
+The man's eyes are open and his mouth is closed. - Muzove oci su otvorene a jeho usta su zatvorene.
+
+His hands are closed. - Jeho ruky su zovrete.
+His hands are open. - Jeho ruky su zovrete.
+One hand is open and one hand is closed. - Jedna ruka je otvorena a jedna ruka je zovreta.
+Her mouth is open. - Jej usta su otvorene.
+
+five toes - 5 prstov na nohe (toe - prst na nohe)
+four arms - 4 ruky
+many legs - vela noh
+four fingers - styri prsty
+
+The feet are apart. - Nohy su oddelene.
+The hands are apart. - Ruky su oddelene.
+The feet are together. - Nohy su spolu.
+The hands are together. - Ruky su spolu.
+
+The boy's legs are together. - Chlapcove nohy su spolu. (together - spolu)
+The man's legs are together. - Muzove nohy su spolu. (apart - oddelene)
+The man's legs are apart. - Muzove nohy su oddelene.
+The boy's legs are apart. - Chlapcove nohy su oddelene.
+
+The feet are apart and the hands are together. - Nohy su oddelene a ruky su spolu.
+The feet are togeher and hands are apart. - Nohy su spolu a ruky su oddelene.
+The hands are apart and the feet are apart. - Ruky su oddelene a nohy su oddelene.
+The hands and feet are together. - Ruky a nohy su spolu.
+
+The horses are together. - Kone su spolu.
+The man and woman are apart. - Muz a zena su oddelene.
+The man and woman are together. - Muz a zena su spolu.
+The horses are apart. - Kone su oddelene.
+
+The man's legs are straight. - Muzove nohy su vystrete. (straight - vystrete, narovnane)
+The woman's arms are straight. - Zenine ruky su vystrete. 
+The woman's arms are bent. - Zenine ruky su ohnute. (bent - ohnute)
+The man's legs are bent. - Muzove nohy su ohnute.

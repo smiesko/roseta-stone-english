@@ -1,0 +1,129 @@
+Is the woman smiling? - Smeje sa zena?
+Yes, she is smiling.    Ano, ona sa smeje.
+
+Is the boy smiling? - Smeje sa chlapec?
+Yes, he is smiling.   Ano, on sa smeje.
+
+Is the woman walking? - Kraca ta zena?
+Yes, she is walking.    Ano, ona kraca.
+
+Are the children playing? - Hraju sa deti?
+Yes, they are playing.      Ano, oni sa hraju.
+
+
+Are the children jumping? - Skacu deti?
+Yes, they are jumping.      Ano, oni skacu.
+
+Are the children jumping? - Skacu deti?
+No, they are sitting.       Nie, oni sedia.
+
+Is the man riding a horse? - Jazdi muz na koni?
+Yes, he is riding a horse.   Ano, on jazdi na koni.
+
+Is the man riding a horse? - Jazdi muz na koni?
+No, he is walking.           Nie, on kraca.
+
+
+Is he playing the violin? - Hra on na husliach?
+No, he is not.               Nie, on nehra.
+
+Is he playing the violin. - Hra on na husliach?
+Yes, he is.				    Ano, on hra.
+
+Is the bike upside down?    - Je bicykel obratene? (upside down - obratene)
+No, it is the right way up.   Nie, je spravne smerom hore.
+
+Is the bike upside down? - Je bicykel obratene?
+Yes, it is.				   Ano, je.
+
+
+Are the boys jumping?  - Skacu chlapci?
+Yes, they are jumping.   Ano, oni skacu.
+
+Is the car yellow? - Je auto zlte?
+Yes, it is yellow.   Ano, je zlte.
+
+Is the car yellow?    - Je auto zlte?
+No, it is not yellow.   Nie, nie je zlte.
+
+Are the boys jumping?     - Skacu chlapci?
+No, they are not jumping.   Nie, oni neskacu.
+
+
+What are they doing? - Co oni robia.
+They are walking.      Oni kracaju.
+
+What is she doing? - Co ona robi?
+She is running.      Ona uteka.
+
+What is he doing?    - Co on robi?
+He is riding a bike.   On jazdi na bicykli.
+
+What are they doing?    - Co oni robia?
+They are riding horses.   Oni jazdia na konoch.
+
+
+What is the boy doing?      - Co chlapec robi?
+He is playing with his dog.   Hra sa so svojim psom.
+
+What is the boy doing? - Co robi chlapec?
+He is walking.           On kraca.
+
+What is the boy doing?         - Co robi chlapec?
+He is playing with his father.   On sa hra s otcom.
+
+What is the boy doing? - Co robi chlapec?
+He is lying down.        On lezi na zemi.
+
+
+What is the man doing?     - Co robi muz?
+He is sitting with his son.   On sedi so svojim synom.
+
+What is the man doing? - Co robi muz?
+He is drinking water.    On pije vodu.
+
+What is the man doing?    - Co robi muz?
+He is playing his guitar.   Hra na svojej gitare.
+
+What is the man doing?        - Co robi muz?
+He is putting on his sweater.   Oblieka si svoj sveter.
+
+
+Are they falling?         - Padaju oni?
+No, they are not falling.   Nie, oni nepadaju.
+
+Is the boy falling?    - Pada chlapec?
+No, he is not falling.   Nie, on nepada.
+
+Is he falling?     - Pada on?
+He may be falling.   On mozno padne.
+
+Is he falling?      - Pada on?
+Yes, he is falling?   Ano, on pada.
+
+
+Is the boy smiling? - Smeje sa chlapec?
+Yes, he is smiling.   Ano, on sa smeje.
+
+Is she smiling?      - Smeje sa ona?
+Yes, she is smiling?   Ano, ona sa smeje.
+
+Is the man smiling?    - Smeje sa muz?
+No, he is not smiling.   Nie, on sa nesmeje.
+
+Is the dog smiling? - Smeje sa pes?
+Can dog smile?        Vie sa pes smiat?
+
+
+Is it a pony?
+Yes, it is a pony?
+
+Is it a dog?     - Je to pes?
+No, it is a cat.   Nie, to je macka.
+
+Is it a dog?      - Je to pes?
+Yes, it is a dog.   Ano, je to pes.
+
+Is it a dog?      - Je to pes?
+No, it is a fish.   Nie, je to ryba.
+

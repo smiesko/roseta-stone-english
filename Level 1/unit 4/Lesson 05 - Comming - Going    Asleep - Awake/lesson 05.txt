@@ -1,0 +1,49 @@
+The couple are going - Par odchadza. (go - ist SMEROM OD NAS PREC)
+The horses are comming. - Kone prichadzaju. (come - prist SMEROM K NAM)
+The women are comming. - Zeny prichadzaju.
+The women are going. - Zeny odchadzaju.
+
+He is climbing the wall. - On zlieza stenu.
+He is going up the stairs. - On ide hore po schodoch. (go up the stairs - ist hore schodmi)
+He is comming down the stairs. - On prichadza dole po schodoch. (come down the stairs - prichadzat dole schodmi)
+He is going up the ladder. - On ide hore po rebriku. (go up the ladder - ist hore po rebriku)
+
+The baby is sleeping. - Batola spi.
+The cat is not sleeping. - Macka nespi.
+The baby is not sleeping. - Batola nespi.
+The cat is sleeping. - Macka spi.
+
+The cat is asleep. - Macka spiaca. (asleep - spiaci PRIDAVNE MENO)
+The cat is awake. - Macka je prebudena. (awake - prebudeny - PRIDAVNE MENO)
+The baby is asleep. - Batola je spiace.
+The baby is awake. - Batola je prebudene.
+
+The couple are going. - Par odchadza.
+The couple are kissing. - Par sa bozkava.
+The couple are comming. - Par prichadza.
+The couple are not kissing. - Par sa nebozkava.
+
+This boy is going into the water. - Tento chlapec ide do vody. (go into the water - ist do vody)
+This boy is getting out of the water. - Tento chlapec vychadza z vody. (get out of the water - ist z vody)
+The horse has come out of the van. - Kon vysiel z dodavky. (has come out of the van - vysiel z dodavky)
+The horse is going into the van. - Kon ide do dodavky. (go into the van - nastupovat do dodavky)
+
+The man is going up the steps. - Muz ide hore schodmi. (go up the steps - ist hore schodmi)
+The woman is going up the escalator. - Zena ide dole eskalatorom. (go up the escalator - ist hore eskalatorom)
+The woman is comming down the escalator. - Zena prichadza dole eskalatorom. (come down the escalator - ist dole eskalatorom)
+The man is comming down the steps. - Muz prichadza dole schodmi. (come down the steps - ist dole schodmi)
+
+The people are going up the steps. - Ludia kracaju hore schodmi.
+These people are going up the escalator. - Tito ludia idu hore eskalatorom.
+These people are going down the escalator. - Tito ludia ido dole eskalatorom.
+The people are comming down the steps. - Ludia prichadzaju dole po schodoch.
+
+The man is comming out of the aeroplane. - Muz vychadza z lietadla. (come out of the aeroplane - vyadzadzat z lietadla)
+The man is getting out of the van. - Muz vychadza z dodavky. (get out of the van - vychadzat z dodavky
+The man is getting into the aeroplane. - Muz nastupuje do lietadla. (get into the aeroplane - nastupovat do lietadla
+The man is getting into the van. - Muz nastupuje do dodavky.
+
+The couple are leaving the building. - Par opusta budovu. (leave building - upustit budovu)
+The couple are entering the building. - Par vchadza do budovy. (enter the building - vstupit do budovy)
+The man is getting into the carriage. - Muz nastupuje do konskeho zaprahu. (get into the carriage - nastupit do konskeho zaprahu)
+The man is getting out of the carriage. - Muz vystupuje z konskeho zaprahu. (get out of the carriage - vystupit z konskeho zaprahu)

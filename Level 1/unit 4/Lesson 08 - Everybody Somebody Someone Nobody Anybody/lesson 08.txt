@@ -1,0 +1,49 @@
+Everybody is wearing a yellow hat. - Kazdy nosi zlty kobuk.
+Everybody is running. - Kazdy bezi.
+Everybody is sitting down. - Kazdy sedi.
+Everybody is dancing. - Kazdy tancuje.
+
+Someone is taking a picture. - Niekto robi fotku. (fotografuje) (take a picture - urobit fotku)
+Someone is behind the tree. - Niekto je za stromom.
+Someone is behind the man. - Niekto je za muzom.
+Someone is wearing yellow. - Niekto nosi zltu.
+
+Nobody is touching the cat. - Nik sa nedotyka macky.
+Somebody is touching the cat. - Niekto sa dotyka macky.
+Everybody is wearing a yellow hat. - Kazdy nosi zlty klobuk.
+Nobody is wearing a yellow hat. - Nik nenosi zlty klobuk.
+
+Everybody is wearing white. - Kazdy nosi bielu.
+Somebody is wearing white and somebody is not wearing white. - Niekto nosi bielu a niekto nenosi bielu.
+Nobody is wearing white. - Nik nenosi bielu.
+The cowboy is wearing white. - Kovboj nosi bielu.
+
+None of the tree boys are jumping into the water. - Ziadny z troch chlapcov neskace do vody.
+Someone is jumping into the water. Someone is not jumping into the water. - Niekto skace do vody. Niekto neskace do vody.
+Everybody is jumping into the water. - Kazdy skace do vody.
+Someone is swimming underwater. - Niekto plava pod vodou. (underwater - pod vodou)
+
+Somebody is kicking the ball. - Niekto kope do lopty.
+Nobody is kicking the ball. - Nik nekope do lopty.
+Is anybody in the aeroplane? No, the aeroplane is empty. - Je niekto v lietadle? Nie, lietadlo je prazdne.
+Is anybody in the aeroplane? Yes, the boy is in the aeroplane. - Je niekto v lietadle? Ano, chlapec je v lietadle.
+
+Nobody is in the aeroplane. - Nik nie je v lietadle.
+Is anybody kicking the ball? No, nobody is. - Niekto kope do lopty? Nie, nik.
+Is anybody kicking the ball? Yes, the boy is. - Niekto kope do lopty? Ano, chlapec.
+There is somebody in the aeroplane. - Je tam niekto v lietadle.
+
+They are pointing at something. - Oni ukazuju na nieco. (to point at something - ukazovat na nieco)
+The man in blue is carrying something. - Muz v modrom nieco nesie. (to carry something - niest nieco)
+The man in blue is not carrying anything. - Muz v modrom nic nenesie.
+They are not pointing at anything. - Oni neukazuju na nic.
+
+Somebody is riding the horse. - Niekto jazdi na koni.
+Nobody is riding the horse. - Nik nejazdi na koni.
+Something is on the plate. - Nieco je na tanieri.
+Nothing is on the plate. - Nic nie je na tanieri.
+
+Someone is laying down in the tent. - Niekto lezi v stane. (lie down in the tent - lezat v stane)
+No one is in the tent. - Nik nie je v stane.
+Something is on the table. - Nieco je na stole.
+Nothing is on any of the tables. - Nic nie je na ziadnom zo stolov.

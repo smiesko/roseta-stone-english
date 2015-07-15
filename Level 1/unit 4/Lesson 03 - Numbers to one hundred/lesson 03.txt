@@ -1,0 +1,50 @@
+four - styri
+one - jeden
+two - dva
+three - tri
+
+eight - osem
+five - pat
+six - sest
+seven - sedem
+
+twelve - dvanast
+eleven - jedenast
+ten - desat
+nine - devat
+
+fourteen - strnast
+thirteen - trinast
+fifteen - patnast
+sixteen - sestnast
+
+eighteen - osemnast
+nineteen - devatnast
+twenty - dvadsat
+seventeen - sedemnast
+
+thirty - tridsat
+fourty - styridsat
+fifty - padasiat
+twenty - dvadsat
+
+eighty - osemdesiat
+ninety - devadesiat
+seventy - sedemdesiat
+sixty - sesdesiat
+
+seventy-five - sedmdesiatpat
+eighty-five - osemdesiatpat
+ninety-five - devadesiatpat
+one hundred - sto
+
+fifty-two - padesiatdva
+fourty-two - styridsatdva
+thirty-two - tridsatdva
+twenty-two - dvadsatdva
+
+fourty-six - styridsatsest
+sixty-six - sestdesiatsest
+eighty-six - osemdesiatsest
+one hundred - sto
+

@@ -1,0 +1,49 @@
+The girl is watching TV. - Dievca pozera telku.
+The boy is watching television. - Chlapec pozera televiziu.
+The girl is smelling a flower. - Dievca ovoniava kvet. (to smell - ovonat)
+The boy is smelling a flower. - Chlapec ovoniava kvet.
+
+The woman is kissing the horse. - Zena bozkava kona.
+The woman is riding the horse. - Zena jazdi na koni.
+The woman is driving the horse. - Zena je vezena konom. (drive the horse - byt vezeny konom napr. v konskom zaprahu)
+The woman is going to drive the car. - Zena bude soferovat auto.
+
+The girl is dancing. - Dievca tancuje.
+The girl is brushing her hair. - Dievca si kefuje svoje vlasy.
+The boy is smelling the flower. - Chlapec ovoniava kvet.
+The boy is not smelling the flowers. - Chlapec neovoniava kvety.
+
+The woman is wearing a hat. - Zena nosi klobuk.
+The man is touching the horse's hoof. - Muz sa dotyka konovho kopyta. (horse's hoof - konske kopyto)
+The man is touching the horse's ear. - Muz sa dotyka konovho ucha.
+The man is putting on gloves. - Muz si oblieka rukavice. (put on gloves - obliekat si rukavice)
+
+The man is climbing onto the carriage. - Muz sa stvera na konsky zaprah.
+The woman is kissing the man. - Zena bozkava muza.
+The man is climbing into the van. - Muz sa stvera do dodavky.
+The woman is kissing the horse. - Zena bozkava kona.
+
+The girl is not watching TV. - Dievca nepozera telku.
+The girl is wearing a hat while watching television. - Dievca nosi klobuk pocas toho ako sleduje telku.
+The girl is brushing her hair while watching TV. - Dievca si kefuje vlasy pocas toho ako sleduje telku.
+The girl is dancing while watching TV. - Dievca tancuje pocas toho ako sleduje telku.
+
+The woman is drinking while playing the keyboard. - Zena pije pocas toho ako hra na klavesach.
+The woman is singing while playing the keyboard. - Zena spieva pocas toho ako hra na klavesoch.
+The woman is brushing her hair while holding her handbag. - Zena si kefuje svoje vlasy pocas toho ako drzi kabelku.
+The woman is writing while holding her handbag. - Zena pise pocas toho ako drzi kabelku.
+
+The man is pointing while holding a shovel. - Muz ukazuje pocas toho ako drzi lopatu. (shovel - lopata)
+The man is reaching a shovel while holding a book. - Muz sa natahuje za lopatou pocas toho ako drzi knihu. (to reach - natahovat sa, siahat na)
+The man is reading a book while the dog is standing between his legs. - Muz cita knihu zatial co pes stoji medzi jeho nohami. 
+The man is reading a book while the boy is listening. - Muz cita knihu zatial co chlapec pocuva.
+
+The man is sitting on a bicycle while the boy is climbing the fence. - Muz sedi na bicykli zatial co chlapec sa splha na plot.
+The children are watching while the man is writing. - Deti sa pozeraju pocas toho ako muz pise. 
+One girl is hold her hat while walking. - Jedno dievca si drzi svoj klobuk zatial co sa prechadza.
+The man is drinking while sitting on the carriage. - Muz pije pocas toho ako sedi v konskom zaprahu.
+
+These men are carying guns while they are walking through the water. - Tito muzi nesi zbrane pocas toho ako prechadzaju riadku.
+The boy is climbing the steps while no one is watching. - Chlapec sa stvera po schodoch pocas toho sako sa nik nepozera.
+The boy is climbing the steps while the man is watching. - Chlapec sa stvera po schodoch pocas toho ako ho muz sleduje.
+These men are carying guns while they are marching in a parade. - Tito muzi nesu zbrane pocas toho ako pochoduju v sprievode. (marching in a parade - pochodovat v sprievode)

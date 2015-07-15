@@ -1,0 +1,49 @@
+a girl and her mother - dieva a jej matka
+a girl and her father - dievca a jej otec
+a boy and his mother - chlapec a jeho matka
+a boy and his father - chlapec a jeho otec
+
+a girl and her family - dievca a jej rodina
+a girl and her father - dievca a jej otec
+a girl and her brother - dievca a jej brat
+a girl and her mother - dievca a jej matka
+
+the boy and his family - chlapec a jeho rodina
+the boy and his father - chlapec a jeho otec
+the boy and his mother - chlapec a jeho matka
+the boy and his sister - chlapec a jeho sestra
+
+The woman is sitting on her husband. - Zena sedi na svojom muzovi.
+The woman is sitting on a chair beside her husband. - Zena sedi na stolicke vedla svojho muza.
+The woman is standing with her husband and children. - Zena stoji s muzom a detmi.
+The woman is sitting beside her husband on a sofa. - Zena sedi vedla svojho muza na gauci. (sofa - gauc)
+
+The man is sitting on a chair beside his wife. - Muz side na kresle vedla svojej zeny.
+The man is standing with his wife and his children. - Muz stoji so svojou zenou a detmi.
+The man's wife is sitting on him. - Muzova zena sedi na nom.
+The man is sitting beside his wife on a sofa. - Muz sedi vedla svojej zeny na gauci.
+
+a father and his daughter - otec a jeho dcera
+a father and his son - otec a jeho syn
+a mother and her dauthter - matka a jej dcera
+a mother and her son - matka a jej syn
+
+a sister and brother and their mother - sestra a brat a ich matka
+a sister and brother with their parents - sestra a brat s ich rodicmi
+a husband and a wife with their daugher - manzel a zena s ich dcerou
+a sister and a brother without their parents - sestra a brat bez ich rodicov
+
+These four people are a family. - Tito styria ludia su rodina.
+These four people are not a family. - Tito styria ludia nie su rodina.
+These three people are from the same family. - Tito traja ludia su z tej istej rodiny.
+These three people are not from the same family. - Tito traja ludia nie su z tej istej rodiny.
+
+two parents without their children - dvaja rodicia bez ich deti
+two brothers and theirs father - dvaja bratia a ich otec
+two brothers and their mather - dvaja bratia a ich matka
+two parents with their children - dvaja rodicia s ich detmi
+
+a child with his parents - dieta s jeho rodicmi
+two brothers and their father - dvaja bratia a ich otec
+These people are not from the same family. - Tito ludia nie su z rovnakej rodiny.
+two sisters and their father - dve sestry a ich otec
