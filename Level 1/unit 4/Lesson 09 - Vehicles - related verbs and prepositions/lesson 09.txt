@@ -1,0 +1,49 @@
+motorcycles - motorky
+a motorcycle - motorka
+a yellow bus - zlty autobus
+two yellow buses - dva zlte autobusy
+
+a little red car - male cervene auto
+a white limousine - biela limuzina (a limousine - limuzina)
+a red boat - cerveny cln
+a big black lorry - velky cierny nakladiak (a lorry - nakladiak)
+
+The breakdown van is pulling the car. - Odtahove vozidlo taha auto. (a breakdown van - odtahove vozidlo)
+Someone is driving a car. - Niekto soferuje auto.
+The red car is behind the lorry. - Cervene auto je za nakladiakom.
+The lorry is pulling a boat. - Nakladiak taha lod. (to pull - tahat)
+
+A lorry and a car are under the bridge. - Nakladiak a auto su pod mostom. (under the bridge - pod mostom)
+a big bridge - velky most
+The lorry is on one bridge and under the other bridge. - Nakladiak je na jednom moste a pod druhym mostom.
+The car is parked in front of a house. - Auto je zaparkovane pred domom. (in front of a house - pred domom)
+
+The boats are on the river. - Lodky su na rieke. (on the river - na rieke)
+The woman is getting into the van. - Zena nastupuje do dodavky.
+The bike is parked. - Bicykel je zaparkovany.
+The man is putting a bike on a van. - Muz dava bicykel na dodavku.
+
+The car is turning. - Auto zataca. (a car turns - auto zabaca)
+The cars are driving through snow. - Auta jazdia pocas snezenia. (driving through snow - jazdit pocas snezenia)
+The red cars are in a parade. - Cervene auta jazdia v sprievode.
+The car is passing a lorry. - Auto predbieha nakladia. (the car is passing a lorry - auto predbieha nakladiak)
+
+a vintage car - archivne auto
+a black limousine - cierna limuzina
+a convertible with the top down - kabriolet so otvorenou strechou (a convertible - kabriolet)
+a red sports car - cervene sportove auto
+
+This red car was in an accident. - Toto cervene auto bolo ucastnikom nehody. (a car was in an accident - auto bolo ucastnikom nehody)
+People are getting into the tram. - Ludia nastupuju do elektricky.
+The train is on the mountain. - Vlak je v horach.
+The red car was not in an accident. - Cervene auto nebolo ucastnikom nehody.
+
+The red and white cars are parked. - Cervene a biele auto su zaparkovane.
+The ship has sails. - Lod ma plachty. (a ship - lod, a sail - plachta)
+The red and grey car were in an accident. - Cervene a sive auto boli ucastnikmi nehody.
+The submarine is in the water. - Ponorka je vo vode. (a submarine - ponorka)
+
+The red car is badly damaged. - Cervene auto je vazne poskodene. (badly damaged - silno poskodene)
+The big ship is moving through the water. - Velka lod sa pohybuje cez vodu.
+The red car is not badly damaged. - Cervene auto nie je znacne poskodene.
+The breakdown van is pulling the car. - Odtahove vozidlo taha auto.

@@ -1,0 +1,49 @@
+He is riding a bike using his hands. - On jazdi na bicykli pomocou jeho ruk. (using his hands - pomocou jeho ruk)
+He is jumping with a pole. - On skace o zrdi. (jump with a pole - skok o zrdi)
+She is singing with a microphone. - Ona spieva do mikrofonu.
+The boy in the red sweater is playing. He is playing with his friends. - Chlapec v cervenom svetri sa hra. On sa hra s jeho priatelmi.
+
+He is playing without his friends. - On sa hra bez jeho kamaratov.
+He is riding without using his hands. - On jazdi bez pomoci ruk.
+He is jumping without a pole. - On skace bez zrde.
+She is singing without a microphone. - Ona spieva bez mikrofonu.
+
+He is jumping without a pole. - On skace bez zrde.
+She is singing with a microphone. - Ona spieva do mirkofonu.
+He is jumping with a pole. - On skace o zrdi.
+She is singing without a microphone. - Ona spieva bez mirkofonu.
+
+He is riding a bike without using his hands. - On jazdi na bicykli bez pomoci ruk.
+He is riding a bike using his hands. - On jazdi na bicykli za pomoci ruk.
+He is playing with his friends. - On sa hra s kamaratmi.
+He is playing without his friends. - On sa hra bez kamaratov.
+
+The man is jumping with a parachute. - Muz skace s padakom. (jump with a parachute - skok s padakom)
+He is climbing with a rope. - On sa splha na lane. (climb with a rope - splhat sa na lane)
+The man is jumping without a parachute. - Muz skace bez padaka.
+He is climbing without a rope. - On sa splha bez lana.
+
+The man with a shirt is running. - Muz v tricku bezi.
+The woman with sunglasses is sitting down. - Zena v slnecnych okuliaroch sedi. (sunglasses - slnene okuliare)
+The woman without sunglasses is sitting down. - Zena bez slnecnych okuliarov sedi.
+The man without a shirt is running. - Muz bez tricka bezi.
+
+The person with a helmet is riding a bike. - Osoba s helmou jazdi na bicykli. (a person with a helemet [helmit] - osoba s helmou)
+The people without umrellas are walking. - Ludia bez dazdnika chodia.
+The person without a helmet is riding a bike. - Osoba bez helmy jazdi na bicykli.
+The people with umbrellas are walking. - Ludia s dazdnikami sa prechadzaju.
+
+The man with a hat is sitting on a box. - Muz s klobukom sedi na bedni. (sit on a box - sediet na bedni)
+The man without a hat is sitting on a box. - Muz bez klobuku sedi na bedni.
+The woman without a hat is walking. - Zena bez klobuka kraca.
+The woman with a hat is walking. - Zena s klobukom kraca.
+
+The man without a hat is pointing. - Muz bez klobuka ukazuje.
+The man without a cap is writing. - Muz bez capice pise.
+The man with a cap is writing. - Muz s capicou pise.
+The man with a hat is pointing. - Muz s klobukom ukazuje.
+
+The boy with a sweater is playing in the grass. - Chlapec vo svetri sa hra v trave. (play in the grass - hrat sa v trave)
+The boy without a sweater is playing in the sand. - Chlapc bez svetra sa hra v piesku. (play in the sand - hrat sa v piesku)
+The boy without a sweater is on the grass. - Chlapec bez svetra je na trave.
+The boy with a sweater is playing in the sand. - Chlapec vo svetri sa hra v piesku.
